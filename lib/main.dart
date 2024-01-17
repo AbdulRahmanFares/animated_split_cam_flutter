@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: BasicSplit()
+      home: BasicSplit() // Change this to the desired starting screen
     );
   }
 }
