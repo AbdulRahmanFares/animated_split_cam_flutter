@@ -8,19 +8,35 @@ This Flutter project, "Animated Split Cam Flutter," is a mobile application that
 
 ### Basic Split
 
-![Basic Split](path/to/basic_split_screenshot.png)
+<img src="https://github.com/AbdulRahmanFares/animated_split_cam_flutter/blob/main/screenshots/basic_split_1.png" width="400">
+
+<img src="https://github.com/AbdulRahmanFares/animated_split_cam_flutter/blob/main/screenshots/basic_split_2.png" width="400">
 
 ### Moderate Split
 
-![Moderate Split](path/to/moderate_split_screenshot.png)
+<img src="https://github.com/AbdulRahmanFares/animated_split_cam_flutter/blob/main/screenshots/moderate_split_1.png" width="400">
+
+<img src="https://github.com/AbdulRahmanFares/animated_split_cam_flutter/blob/main/screenshots/moderate_split_2.png" width="400">
 
 ### Animated Split
 
-![Animated Split](path/to/animated_split_screenshot.gif)
+<img src="https://github.com/AbdulRahmanFares/animated_split_cam_flutter/blob/main/screenshots/animated_split_1.png" width="400">
+
+<img src="https://github.com/AbdulRahmanFares/animated_split_cam_flutter/blob/main/screenshots/animated_split_2.png" width="400">
 
 ### Advanced Split with Cam
 
-![Advanced Split with Cam](path/to/advanced_split_with_cam_screenshot.png)
+<img src="https://github.com/AbdulRahmanFares/animated_split_cam_flutter/blob/main/screenshots/advanced_split_with_cam_1.png" width="400">
+
+<img src="https://github.com/AbdulRahmanFares/animated_split_cam_flutter/blob/main/screenshots/advanced_split_with_cam_2.png" width="400">
+
+<img src="https://github.com/AbdulRahmanFares/animated_split_cam_flutter/blob/main/screenshots/advanced_split_with_cam_3.png" width="400">
+
+<img src="https://github.com/AbdulRahmanFares/animated_split_cam_flutter/blob/main/screenshots/advanced_split_with_cam_4.png" width="400">
+
+<img src="https://github.com/AbdulRahmanFares/animated_split_cam_flutter/blob/main/screenshots/advanced_split_with_cam_5.png" width="400">
+
+<img src="https://github.com/AbdulRahmanFares/animated_split_cam_flutter/blob/main/screenshots/advanced_split_with_cam_6.png" width="400">
 
 ## Getting Started
 
