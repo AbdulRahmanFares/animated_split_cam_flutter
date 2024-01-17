@@ -6,7 +6,21 @@ This Flutter project, "Animated Split Cam Flutter," is a mobile application that
 
 ## Screenshots
 
-Include screenshots or GIFs demonstrating the functionality and appearance of your app. This section helps users quickly understand what your project is about.
+### Basic Split
+
+![Basic Split](path/to/basic_split_screenshot.png)
+
+### Moderate Split
+
+![Moderate Split](path/to/moderate_split_screenshot.png)
+
+### Animated Split
+
+![Animated Split](path/to/animated_split_screenshot.gif)
+
+### Advanced Split with Cam
+
+![Advanced Split with Cam](path/to/advanced_split_with_cam_screenshot.png)
 
 ## Getting Started
 
@@ -82,7 +96,7 @@ If you encounter any issues or have suggestions for improvement, feel free to [o
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/AbdulRahmanFares/animated_split_cam_flutter/blob/main/LICENSE) file for details.
 
 ## Support
 
